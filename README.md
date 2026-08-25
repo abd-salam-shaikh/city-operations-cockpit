@@ -3,6 +3,10 @@
 An English-language smart-city dashboard demonstrating mobility, energy,
 environmental and infrastructure operations with a responsive control-room UI.
 
+## Live demo
+
+[Open the CITY/OPS cockpit on GitHub Pages](https://abd-salam-shaikh.github.io/city-operations-cockpit/)
+
 ## Data modes
 
 - `VITE_DATA_MODE=static` uses deterministic sample data and makes no API calls.
